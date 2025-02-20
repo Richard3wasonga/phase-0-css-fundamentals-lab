@@ -27,3 +27,11 @@ img{
   color: #efefef;
   display: flat;
  }
+ .footer{
+  margin-bottom: 0px;
+  width: 100%;
+  padding: 10px 15%;
+  background:#ff0000;
+  color: #070000;
+  display: flex;
+}
