@@ -29,6 +29,7 @@ img{
 #details{
   display: flex;
   text-align: center;
-  width: 25%;
-  flex-grow: 2;
+  justify-content: space-evenly;
+  
+  
 }
