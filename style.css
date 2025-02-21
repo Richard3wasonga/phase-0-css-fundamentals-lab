@@ -18,20 +18,17 @@ img{
   width:37%;
   text-align: center;
   margin: auto;
- }
- #footer{
-  margin-bottom: 50px;
-  width: 100%;
-  padding: 150px 15%;
-  background:#ff0000;
-  color: #efefef;
-  display: flat;
- }
- .footer{
+}
+.footer{
   margin-bottom: 0px;
   width: 100%;
-  padding: 10px 15%;
+  padding: 0px 15%;
   background:#ff0000;
   color: #070000;
+}
+#details{
   display: flex;
+  text-align: center;
+  width: 25%;
+  flex-grow: 2;
 }
